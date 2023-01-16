@@ -28,7 +28,7 @@
 }
 
 .mainmenubody{
-  background-image: url("../images/mainmenuimage.jpg"); 
+  background-image: url("mainmenuimage.jpg"); 
   height:100vh; 
   margin: 0;
   background-size: cover;
@@ -113,7 +113,7 @@ input[type=text] {
 
 
 #passengerpage{
-  background-image: url("../images/passenger.jpg");
+  background-image: url("passenger.jpg");
   height:100vh; 
   margin: 0;
   background-size: cover;
