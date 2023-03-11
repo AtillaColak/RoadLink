@@ -2,6 +2,7 @@ const numbers = "0123456789";
 const symbols = "~`!@#$%^&*()_-+={}[]|:;<>,.?/";
 const upperLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowerLetters = "abcdefghijklmnopqrstuvwxyz";
+// not cool
 
 function validateForm() {
     // If all validation checks pass, submit the form
